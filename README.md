@@ -38,3 +38,12 @@ Demonstração:
 
 ### `Validações Cadastro`
 ![gif](https://media.giphy.com/media/dz7eTIS3yvZdHOjItb/giphy.gif)
+
+### `Validações Login`
+![gif](https://media.giphy.com/media/ZcQTjKOlqS8EOBHILA/giphy.gif)
+
+### `Página Inicial`
+![gif](https://media.giphy.com/media/TjivnUfkJo8wVxYWpf/giphy.gif)
+
+### `Android`
+![gif](https://media.giphy.com/media/kgO6hc3J9GZgYZvrO4/giphy.gif)
