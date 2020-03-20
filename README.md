@@ -34,6 +34,14 @@ Para ios
 Para android
 ### `react-native run-android`
 
+### `Importante`
+Como eu subi uma API no Heroku com uma conta gratuita, se ela não estiver sendo utilizada a mesma entra em standby.
+Caso a API esteja inativa, é só clicar nesse link que subirá novamente..
+https://serasa-backend-test.herokuapp.com/
+
+Mais detalhes da API: 
+https://github.com/brunoscardoso/serasa-backend-test
+
 Demonstração:
 
 ### `Validações Cadastro`
