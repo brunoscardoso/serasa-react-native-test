@@ -37,4 +37,4 @@ Para android
 Demonstração:
 
 ### `Validações Cadastro`
-![gif]https://gph.is/g/E3mDJ17
+![gif](https://gph.is/g/E3mDJ17)
